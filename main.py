@@ -1,5 +1,3 @@
-grade_categories = ("Excellent", "Good", "Pass", "Fail")
-
 def calculate_average(scores):
     if len(scores) == 0:
         return 0
